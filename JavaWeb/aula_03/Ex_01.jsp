@@ -19,13 +19,13 @@ Mes: <b><%=pegaMesPorExtenso() %></b>
 	String s = "";
 	switch(dia){
 		case 1: s = "segunda";break;
-		case 2: s = "terça";break;
+		case 2: s = "terÃ§a";break;
 		case 3: s = "quarta";break;
 		case 4: s = "quinta";break;
 		case 5: s = "sexta";break;
-		case 6: s = "sábado";break;
+		case 6: s = "sÃ¡bado";break;
 		case 7: s = "domingo";break;
-		default: s = "Mês inexistente";
+		default: s = "MÃªs inexistente";
 	}
 	return s;
 	}
@@ -38,9 +38,9 @@ Mes: <b><%=pegaMesPorExtenso() %></b>
 		switch(mes){
 			case 1: s = "janeiro";break;
 			case 2: s = "fevereiro";break;
-			case 3: s = "março";break;
+			case 3: s = "marÃ§o";break;
 			//outros meses
-			default: s = "Mês inexistente";
+			default: s = "MÃªs inexistente";
 		}
 		return s;
 	}
