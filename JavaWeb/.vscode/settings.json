@@ -1,0 +1,24 @@
+{
+  "cSpell.language": "en,pt,pt-PT",
+  "cSpell.enableFiletypes": [
+    "!asciidoc",
+    "!c",
+    "!cpp",
+    "!csharp",
+    "!css",
+    "!go",
+    "!handlebars",
+    "!haskell",
+    "!html",
+    "!jade",
+    "!java",
+    "!latex",
+    "!php",
+    "!pug",
+    "!python",
+    "!restructuredtext",
+    "!rust",
+    "!scala",
+    "!scss"
+  ]
+}
